@@ -1,0 +1,25 @@
+# Datasets
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Word docs (feature descriptions, etc.)
+*.docx
+*.doc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Virtual environment (if you use one)
+venv/
+env/
+.venv/
