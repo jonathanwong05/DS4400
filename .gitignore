@@ -4,6 +4,9 @@
 *.xls
 *.json
 *.parquet
+*.data
+*.DOCUMENTATION
+*.names
 
 # Word docs (feature descriptions, etc.)
 *.docx
@@ -23,3 +26,5 @@ __pycache__/
 venv/
 env/
 .venv/
+
+*.png
